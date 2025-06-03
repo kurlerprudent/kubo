@@ -73,7 +73,7 @@ import {
                     <span className="text-sm text-gray-500">1 day ago</span>
                   </li>
                   {/* Add more items to test scrolling */}
-                  {[...Array(10)].map((_, i) => (
+                  {[...Array(2)].map((_, i) => (
                     <li key={i} className="flex justify-between items-center">
                       <span className="text-gray-600">Sample activity item {i + 1}</span>
                       <span className="text-sm text-gray-500">Just now</span>

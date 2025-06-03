@@ -1,3 +1,4 @@
+"use client";	
 import { Footer } from "@/components/footer";
 import LoginPage from "@/components/loginForm";
 
